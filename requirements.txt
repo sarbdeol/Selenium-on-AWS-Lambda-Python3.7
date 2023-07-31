@@ -1,0 +1,2 @@
+urllib3<2.0
+ pip install selenium==3.8.0 -t python/lib/python3.7/site-packages
